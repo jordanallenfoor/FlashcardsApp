@@ -1,0 +1,16 @@
+.headerWrapper {
+  background-color: lightgray;
+}
+
+h1 {
+  font-weight: 700;
+  color: #252728;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+p {
+  color: #252728;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
